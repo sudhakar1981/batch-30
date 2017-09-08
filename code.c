@@ -8,7 +8,7 @@ main()
 	  clrscr();
 	  
 	  a=10;
-	  b=20;
+	  b=30;
 	  c=a+b;
 	  printf(" the addition of two numbers = %d",c);
 	 getche();
