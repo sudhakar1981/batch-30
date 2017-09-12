@@ -17,7 +17,7 @@ public class Program1_NumbersExchange {
 		System.out.println ("a Value is: "+a);
 		System.out.println ("b Value is: "+b);
 		
-		System.out.println(sayHello("Karthik"));
+		System.out.println(sayHello("Ganesh"));
 		
 	}
 	
