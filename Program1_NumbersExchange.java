@@ -5,8 +5,8 @@ public class Program1_NumbersExchange {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int a = 2;
-		int b = 3;
+		int a = 77;
+		int b = 66;
 		System.out.println("Before Swap-");
 		System.out.println ("a Value is: "+a);
 		System.out.println ("b Value is: "+b);
