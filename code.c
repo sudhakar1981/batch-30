@@ -13,5 +13,6 @@ main()
 	  d=a+b+c;
 	  printf(" the addition of two numbers = %d",d);
 	  printf("for test ")
+	  printf("for merge activity")
 	 getche();
 }
