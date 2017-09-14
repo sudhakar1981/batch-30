@@ -2,6 +2,7 @@
 #include<stdio.h>
 #include<conio.h>
 @include<dos.h>
+#include<graphics.c>
 main()
 {
 	  int a,b,c,d;
