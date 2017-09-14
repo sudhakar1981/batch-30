@@ -5,7 +5,8 @@
 #include<graphics.c>
 main()
 {
-	  int a,b,c,d,f;
+	  int a,b,c,d,e,f;
+
 	  clrscr();
 	  
 	  a=10;
