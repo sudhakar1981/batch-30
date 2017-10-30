@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<conio.h>
 @include<dos.h>
-main()
+main();
 {
 	  int a,b,c,d;
 	  clrscr();
