@@ -2,9 +2,17 @@
 #include<stdio.h>
 #include<conio.h>
 @include<dos.h>
+<<<<<<< HEAD
 main();
+=======
+#include<graphics.c>
+
+
+
+main()
+>>>>>>> module1
 {
-	  int a,b,c,d;
+	  int a,b,c,d,e,g;
 	  clrscr();
 	  
 	  a=10;
